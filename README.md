@@ -62,10 +62,15 @@ Contains streaming activity including:
 
 ## Tools Used
 
+- Miro
+- Canva
 - SQL
 - Databricks
 - Power BI
+- Excel
+- ChatGpt
 - GitHub
+
 
 ---
 
